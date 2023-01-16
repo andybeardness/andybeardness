@@ -1,5 +1,5 @@
 **Contacts**
 
-✉️ e-mail : beardness.andy@gmail.com
+💌 e-mail : beardness.andy@gmail.com
 
 💬 telegram : t.me/beardness
