@@ -2,4 +2,4 @@
 
 💌 e-mail : beardness.andy@gmail.com
 
-💬 telegram : t.me/beardness
+💬 telegram : [@beardness](https://t.me/beardness)
