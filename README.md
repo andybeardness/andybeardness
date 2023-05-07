@@ -1,3 +1,12 @@
+**Skills**
+
+- 🏝 Kotlin
+- 🏖 Java
+- 🐍 Python
+- 🐹 Go
+- 📟 Linux
+- 💻 Arduino
+
 **Contacts :**
 
 - 💌 e-mail : beardness.andy@gmail.com
