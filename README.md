@@ -1,11 +1,13 @@
 💪🏼 **Skills**
 
+- 🤖 Android
 - 🏝 Kotlin
 - 🏖 Java
 - 🐍 Python
 - 🐹 Go
 - 📟 Linux
 - 💻 Arduino
+- 🎨 Figma
 
 🔗 **Links**
 
