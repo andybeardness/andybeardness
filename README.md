@@ -1,6 +1,6 @@
 ```
 # Software developer
 
-Inbox    : beardness.andy@gmail.com
+Inbox    : beardness.andy.dev@gmail.com
 Telegram : beardness
 ```
